@@ -1,7 +1,7 @@
 # Secure Connect and Communication Platform
 
 **Assignment 4 – Web Dev III (Unit 4)**
-**Author:** Naman Joshi
+**Author:** Dhruv Jaiswal
 
 A secure backend built with **Node.js, Express, MongoDB (Mongoose), JWT, bcrypt, Socket.IO and dotenv** – no pre-built
 auth or chat frameworks.

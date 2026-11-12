@@ -15,7 +15,7 @@
     "rbac",
     "eventemitter"
   ],
-  "author": "Naman Joshi",
+  "author": "Dhruv Jaiswal",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^6.0.0",
